@@ -1,0 +1,5 @@
+data/sales
+output/bi
+src/__pycache__/
+
+output/prophet/
